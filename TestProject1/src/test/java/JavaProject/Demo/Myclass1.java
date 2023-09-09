@@ -14,6 +14,7 @@ public class Myclass1 {
 		Myclass1 ref = new Myclass1();
 		
     System.out.println(ref.a);
+    System.out.println(ref.b);
 	}
 
 }
